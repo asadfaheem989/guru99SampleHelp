@@ -1,0 +1,10 @@
+21:56:41.079 INFO  testcases.LoginPageTest -***********************Startmethod**********************
+21:56:47.232 INFO  testcases.LoginPageTest -***********************First Test Started**********************
+21:56:47.247 INFO  testcases.LoginPageTest -***********************FirstTest Ended**********************
+21:56:47.249 INFO  testcases.LoginPageTest -***********************teardowntime**********************
+21:56:52.568 INFO  testcases.LoginPageTest -***********************Startmethod**********************
+21:56:57.551 INFO  testcases.LoginPageTest -***********************2ndTestStarted**********************
+21:57:00.322 INFO  testcases.LoginPageTest -***********************2ndTestFinished**********************
+21:57:00.433 ERROR testcases.LoginPageTest -*************error was created***********
+21:57:00.435 INFO  testcases.LoginPageTest -***********************teardowntime**********************
+22:00:32.258 ERROR testcases.LoginPageTest -*************error was created***********

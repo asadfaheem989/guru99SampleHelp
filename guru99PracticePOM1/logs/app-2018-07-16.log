@@ -1,0 +1,17 @@
+18:56:54.270 INFO  check123 -***********************2ndTestStarted**********************
+18:56:57.439 INFO  check123 -***********************2ndTestFinished**********************
+18:56:57.483 ERROR check123 -java.lang.AssertionError: expected [Guru9999 Bank Manager HomePage] but found [Guru99 Bank Manager HomePage]
+18:56:57.486 INFO  check123 -***********************teardowntime**********************
+21:20:21.450 INFO  check123 -***********************Startmethod**********************
+21:20:30.710 INFO  check123 -***********************2ndTestStarted**********************
+21:20:33.699 INFO  check123 -***********************2ndTestFinished**********************
+21:20:33.724 ERROR check123 -java.lang.AssertionError: expected [Guru9999 Bank Manager HomePage] but found [Guru99 Bank Manager HomePage]
+21:20:33.740 INFO  check123 -***********************teardowntime**********************
+21:21:23.412 INFO  check123 -***********************Startmethod**********************
+21:21:29.537 INFO  check123 -***********************2ndTestStarted**********************
+21:21:32.288 INFO  check123 -***********************2ndTestFinished**********************
+21:21:32.290 ERROR check123 -java.lang.AssertionError: expected [Guru9999 Bank Manager HomePage] but found [Guru99 Bank Manager HomePage]
+21:21:32.295 INFO  check123 -***********************teardowntime**********************
+21:23:23.037 INFO  check123 -***********************Startmethod**********************
+21:23:28.376 INFO  check123 -***********************2ndTestStarted**********************
+21:23:31.506 INFO  check123 -***********************teardowntime**********************

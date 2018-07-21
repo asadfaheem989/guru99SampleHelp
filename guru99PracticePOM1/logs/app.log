@@ -1,0 +1,62 @@
+21:32:56.961 INFO  testcases.LoginPageTest -***********************Startmethod**********************
+21:33:05.634 INFO  testcases.LoginPageTest -***********************First Test Started**********************
+21:33:05.659 INFO  testcases.LoginPageTest -***********************teardowntime**********************
+21:33:11.046 INFO  testcases.LoginPageTest -***********************Startmethod**********************
+21:33:16.430 INFO  testcases.LoginPageTest -***********************2ndTestStarted**********************
+21:33:21.556 INFO  testcases.LoginPageTest -***********************2ndTestFinished**********************
+21:33:21.558 INFO  testcases.LoginPageTest -***********************teardowntime**********************
+21:44:42.355 INFO  testcases.LoginPageTest -***********************Startmethod**********************
+21:44:48.941 INFO  testcases.LoginPageTest -***********************First Test Started**********************
+21:44:48.970 INFO  testcases.LoginPageTest -***********************FirstTest Ended**********************
+21:44:48.977 INFO  testcases.LoginPageTest -***********************teardowntime**********************
+21:44:54.537 INFO  testcases.LoginPageTest -***********************Startmethod**********************
+21:45:00.875 INFO  testcases.LoginPageTest -***********************2ndTestStarted**********************
+21:45:05.792 INFO  testcases.LoginPageTest -***********************2ndTestFinished**********************
+21:45:05.793 ERROR testcases.LoginPageTest -*************error was created***********
+21:45:05.796 INFO  testcases.LoginPageTest -***********************teardowntime**********************
+21:45:58.889 INFO  testcases.LoginPageTest -***********************Startmethod**********************
+21:46:05.412 INFO  testcases.LoginPageTest -***********************First Test Started**********************
+21:46:05.440 INFO  testcases.LoginPageTest -***********************FirstTest Ended**********************
+21:46:05.447 INFO  testcases.LoginPageTest -***********************teardowntime**********************
+21:46:10.919 INFO  testcases.LoginPageTest -***********************Startmethod**********************
+21:46:16.828 INFO  testcases.LoginPageTest -***********************2ndTestStarted**********************
+21:46:20.129 INFO  testcases.LoginPageTest -***********************2ndTestFinished**********************
+21:46:20.131 ERROR testcases.LoginPageTest -*************error was created***********
+21:46:20.134 INFO  testcases.LoginPageTest -***********************teardowntime**********************
+21:47:11.174 INFO  testcases.LoginPageTest -***********************Startmethod**********************
+21:47:17.623 INFO  testcases.LoginPageTest -***********************First Test Started**********************
+21:47:17.636 INFO  testcases.LoginPageTest -***********************FirstTest Ended**********************
+21:47:17.644 INFO  testcases.LoginPageTest -***********************teardowntime**********************
+21:47:23.111 INFO  testcases.LoginPageTest -***********************Startmethod**********************
+21:47:28.089 INFO  testcases.LoginPageTest -***********************2ndTestStarted**********************
+21:47:31.356 INFO  testcases.LoginPageTest -***********************2ndTestFinished**********************
+21:47:31.365 ERROR testcases.LoginPageTest -*************error was created***********
+21:47:31.368 INFO  testcases.LoginPageTest -***********************teardowntime**********************
+21:50:18.936 ERROR testcases.LoginPageTest -*************error was created***********
+21:52:27.866 ERROR testcases.LoginPageTest -*************error was created***********
+21:55:31.126 INFO  testcases.LoginPageTest -***********************Startmethod**********************
+21:55:38.435 INFO  testcases.LoginPageTest -***********************First Test Started**********************
+21:55:38.451 INFO  testcases.LoginPageTest -***********************FirstTest Ended**********************
+21:55:38.454 INFO  testcases.LoginPageTest -***********************teardowntime**********************
+21:55:43.735 INFO  testcases.LoginPageTest -***********************Startmethod**********************
+21:55:50.986 INFO  testcases.LoginPageTest -***********************2ndTestStarted**********************
+21:55:53.929 INFO  testcases.LoginPageTest -***********************2ndTestFinished**********************
+21:55:53.930 ERROR testcases.LoginPageTest -*************error was created***********
+21:55:53.932 INFO  testcases.LoginPageTest -***********************teardowntime**********************
+22:14:30.585 ERROR testcases.LoginPageTest -java.lang.AssertionError: expected [Guru9999 Bank Manager HomePage] but found [Guru99 Bank Manager HomePage]
+22:20:04.645 INFO  testcases.LoginPageTest -***********************Startmethod**********************
+22:20:14.854 INFO  testcases.LoginPageTest -***********************2ndTestStarted**********************
+22:20:17.882 INFO  testcases.LoginPageTest -***********************2ndTestFinished**********************
+22:20:17.884 ERROR testcases.LoginPageTest -java.lang.AssertionError: expected [Guru9999 Bank Manager HomePage] but found [Guru99 Bank Manager HomePage]
+22:20:17.887 INFO  testcases.LoginPageTest -***********************teardowntime**********************
+22:21:47.007 ERROR testcases.LoginPageTest -java.lang.AssertionError: expected [Guru9999 Bank Manager HomePage] but found [Guru99 Bank Manager HomePage]
+22:22:38.997 INFO  testcases.LoginPageTest -***********************Startmethod**********************
+22:22:49.721 INFO  testcases.LoginPageTest -***********************2ndTestStarted**********************
+22:22:52.618 INFO  testcases.LoginPageTest -***********************2ndTestFinished**********************
+22:22:52.619 ERROR testcases.LoginPageTest -java.lang.AssertionError: expected [Guru9999 Bank Manager HomePage] but found [Guru99 Bank Manager HomePage]
+22:22:52.624 INFO  testcases.LoginPageTest -***********************teardowntime**********************
+22:23:45.760 INFO  testcases.LoginPageTest -***********************Startmethod**********************
+22:23:52.006 INFO  testcases.LoginPageTest -***********************2ndTestStarted**********************
+22:23:54.752 INFO  testcases.LoginPageTest -***********************2ndTestFinished**********************
+22:23:54.753 ERROR testcases.LoginPageTest -java.lang.AssertionError: expected [Guru9999 Bank Manager HomePage] but found [Guru99 Bank Manager HomePage]
+22:23:54.757 INFO  testcases.LoginPageTest -***********************teardowntime**********************
